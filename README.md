@@ -25,3 +25,7 @@
   ![Snake animation](https://github.com/Drey021/Drey021/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/112641522/195971225-f87f26e5-8543-4990-b78c-fbeff42ad0d1.gif" width="px300" />
+</div>
