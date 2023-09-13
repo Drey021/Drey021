@@ -1,9 +1,10 @@
-## Olá! Eu sou o Andrey Soares. 
 
-<div>
-  <a href="https://github.com/Drey021">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Drey021&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drey021&layout=compact&langs_count=7&theme=great-gatsby&hide_progress=true" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a67ac&size=35&center=true&vCenter=true&width=1000&lines=OLa!+Eu+sou+o+Drey;Tenho+20+anos+;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo(a)+:%29)](https://git.io/typing-svg)
+##
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Drey021&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drey021&layout=compact&langs_count=7&theme=great-gatsby&hide_progress=true" />
 </div>
 
 <div align="center"> 
@@ -32,6 +33,3 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:aandrey.soares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>  
-
-
-
