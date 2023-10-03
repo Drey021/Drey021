@@ -26,6 +26,8 @@
 
 ##
 
+![Snake animation](https://github.com/Drey021/Drey021/blob/output/github-contribution-grid-snake-dark.svg)
+
 ### Redes Sociais:
 
   <a href="https://www.instagram.com/drey_soares_/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
