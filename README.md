@@ -1,4 +1,3 @@
-l
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a67ac&size=35&center=true&vCenter=true&width=1000&lines=OLa!+Eu+sou+o+Drey;Tenho+20+anos+;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo(a)+:%29)](https://git.io/typing-svg)
 ##
 
