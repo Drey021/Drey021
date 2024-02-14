@@ -17,10 +17,13 @@
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=github"/>
+  <br>
   <img src="https://skillicons.dev/icons?i=php"/>
   <img src="https://skillicons.dev/icons?i=linux"/>
   <img src="https://skillicons.dev/icons?i=py"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=mongo"/>
 </p>
 
 ##
