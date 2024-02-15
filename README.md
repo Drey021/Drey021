@@ -8,7 +8,7 @@
 
 <div align="center"> 
 
-### Tecnologias que estou aprendendo:
+### Tecnologias que tenho Conhecimento:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html"/>
