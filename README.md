@@ -1,9 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a67ac&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Drey;Tenho+23+anos;Formado+Em+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo(a)+:%29)](https://git.io/typing-svg)
 
+<p align="center">
+  💻 <b>Backend & Frontend</b> | 🚀 <b>Transformando ideias em código</b>
+</p>
+
 <div align="center">
   <a href="https://github.com/Drey021">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drey021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drey021&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Drey021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drey021&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 
